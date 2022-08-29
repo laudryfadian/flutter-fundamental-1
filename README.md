@@ -21,3 +21,9 @@ Image Widget
 
 ![](image/prak3_2.JPG)
 
+### Praktikum 4
+
+Dialog
+
+![](image/prak4_1.JPG)
+![](image/prak4_2.JPG)
