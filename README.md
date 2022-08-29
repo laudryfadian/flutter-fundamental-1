@@ -31,3 +31,8 @@ Dialog
 Text Input
 
 ![](image/prak4_3.JPG)
+
+Datepicker
+
+![](image/prak4_4.JPG)
+![](image/prak4_5.JPG)
