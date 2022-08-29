@@ -27,3 +27,7 @@ Dialog
 
 ![](image/prak4_1.JPG)
 ![](image/prak4_2.JPG)
+
+Text Input
+
+![](image/prak4_3.JPG)
