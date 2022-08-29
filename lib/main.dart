@@ -32,13 +32,21 @@ class MyLayout extends StatefulWidget {
 class _MyLayoutState extends State<MyLayout> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return const Scaffold(
       body: Center(
-        child: ElevatedButton(
-          child: const Text('Show alert'),
-          onPressed: () {
-            showAlertDialog(context);
-          },
+        //   child: ElevatedButton(
+        //     child: const Text('Show alert'),
+        //     onPressed: () {
+        //       showAlertDialog(context);
+        //     },
+        //   ),
+        // ),
+        child: TextField(
+          obscureText: false,
+          decoration: InputDecoration(
+            border: OutlineInputBorder(),
+            labelText: 'Nama',
+          ),
         ),
       ),
     );
