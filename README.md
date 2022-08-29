@@ -11,3 +11,9 @@ Create Repo Github
 
 ![](image/prak2.JPG)
 
+### Praktikum 3
+
+Text Widget
+
+![](image/prak3_1.JPG)
+
