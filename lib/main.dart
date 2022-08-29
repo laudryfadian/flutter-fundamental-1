@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_fundamental_1/basic_widgets/text_widget.dart';
 
 void main() {
   runApp(const MyApp());
@@ -47,9 +48,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text(
-              'LAUDRY IZA FADIAN!',
-            ),
+            const MyTextWidget(),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,
