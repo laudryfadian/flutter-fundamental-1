@@ -23,6 +23,10 @@ Image Widget
 
 ### Praktikum 4
 
+Cupertino
+
+![](image/prak4_cupper.JPG)
+
 Dialog
 
 ![](image/prak4_1.JPG)
