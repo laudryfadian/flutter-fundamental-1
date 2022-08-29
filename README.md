@@ -27,6 +27,10 @@ Cupertino
 
 ![](image/prak4_cupper.JPG)
 
+Floating Action Button
+
+![](image/prak4_fab.JPG)
+
 Dialog
 
 ![](image/prak4_1.JPG)
