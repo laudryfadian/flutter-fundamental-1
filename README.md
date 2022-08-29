@@ -17,3 +17,7 @@ Text Widget
 
 ![](image/prak3_1.JPG)
 
+Image Widget
+
+![](image/prak3_2.JPG)
+
