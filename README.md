@@ -23,7 +23,7 @@ Image Widget
 
 ### Praktikum 4
 
-Cupertino
+Cupertino button dan loading bar
 
 ![](image/prak4_cupper.JPG)
 
